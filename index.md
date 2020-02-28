@@ -1,37 +1,133 @@
-## Welcome to GitHub Pages
+## Reverse Engineering
 
-You can use the [editor on GitHub](https://github.com/krakenov/krakenov.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Time Zone Information
+* Time Zone Converter :: [https://savvytime.com/converter](https://savvytime.com/converter)
+* Time Zone Map :: [https://www.timeanddate.com/time/map/](https://www.timeanddate.com/time/map/)
+* Time Zone Abbreviations :: [https://www.timeanddate.com/time/zones/](https://www.timeanddate.com/time/zones/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Notes / Files
+* PrivateBin :: [https://paste.ccc.ac/](https://paste.ccc.ac/)
+* Paste-Bin Ubuntu :: [https://paste.ubuntu.com/](https://paste.ubuntu.com/)
+* ProtectedText - Encrypted notes, access anywhere :: [https://www.protectedtext.com](https://www.protectedtext.com)
+* Edit Pad - Online Text Editor & Wordpad for Notes :: [http://www.editpad.org/](http://www.editpad.org/)
+* DropMeFiles – One-click File Sharing Service :: [https://dropmefiles.com](https://dropmefiles.com)
 
-### Markdown
+### Communication Servers
+* Team Collaboration (Messaging, File Sharing) :: [https://slack.com/](https://slack.com/)
+* Team Collaboration (Project Management) :: [https://trello.com/](https://trello.com/)
+* Discord (Voice & Text Chat) :: [https://discordapp.com/login](https://discordapp.com/login)
+* Freenode Webchat IRC :: [https://webchat.freenode.net/](https://webchat.freenode.net/)
+* Kiwi IRC :: [https://kiwiirc.com/client](https://kiwiirc.com/client)
+* Discover Discord Servers :: [https://disboard.org/](https://disboard.org/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Reconnaissance
+* Online Curl :: [https://onlinecurl.com/](https://onlinecurl.com/)
+* Online WGET Tool :: [https://wget.alanreed.org/](https://wget.alanreed.org/)
+* Network-Tools :: [http://network-tools.com/](http://network-tools.com/)
+* MXToolbox :: [https://mxtoolbox.com/NetworkTools.aspx](https://mxtoolbox.com/NetworkTools.aspx)
+* CentralOps :: [http://centralops.net/co/](http://centralops.net/co/)
+* UltraTools :: [https://www.ultratools.com/](https://www.ultratools.com/)
+* URLVoid :: [http://www.urlvoid.com/](http://www.urlvoid.com/)
+* URLQuery :: [http://urlquery.net/](http://urlquery.net/)
+* URL Parser / Query String Splitter :: [https://www.freeformatter.com/url-parser-query-string-splitter.html](https://www.freeformatter.com/url-parser-query-string-splitter.html)
+* ScanURL :: [http://scanurl.net/](http://scanurl.net/)
+* Web-Sniffer :: [http://web-sniffer.net/](http://web-sniffer.net/)
+* Safeweb (Norton) :: [https://safeweb.norton.com/](https://safeweb.norton.com/)
+* Lookup IP Address Location (IPv4/IPv6) :: [http://whatismyipaddress.com/ip-lookup](http://whatismyipaddress.com/ip-lookup)
+* IPVoid :: [http://www.ipvoid.com/](http://www.ipvoid.com/)
+* ToolsVoid :: [http://www.toolsvoid.com/](http://www.toolsvoid.com/)
+* DNS Stuff :: [http://www.dnsstuff.com/tools](http://www.dnsstuff.com/tools)
+* DNS Goodies :: [http://dnsgoodies.com/](http://dnsgoodies.com/)
+* RobTex :: [https://www.robtex.net/](https://www.robtex.net/)
+* Metre.net :: [http://metre.net/](http://metre.net/)
+* Open Source Intelligence (OSINT) :: [https://inteltechniques.com/menu.html](https://inteltechniques.com/menu.html)
+* Hunter.io (Email Hunter) :: [https://hunter.io/](https://hunter.io/)
+* Whois :: [http://network-tools.com/default.asp?prog=whois](http://network-tools.com/default.asp?prog=whois)
+* Whois Request :: [http://whoisrequest.com/](http://whoisrequest.com/)
+* Whois History :: [http://whoisrequest.org/history/](http://whoisrequest.org/history/)
+* Internet Archive (Wayback Machine) :: [https://archive.org/web/](https://archive.org/web/)
 
-```markdown
-Syntax highlighted code block
+### Forensics / Recovery
+* Hashbot - A forensic web tool :: [https://www.hashbot.com/](https://www.hashbot.com/)
+* ZIP File Password Removal :: [https://passwordrecovery.io/zip-file-password-removal/](https://passwordrecovery.io/zip-file-password-removal/)
+* Barcode Decoder Online :: [https://zxing.org/w/decode.jspx](https://zxing.org/w/decode.jspx)
+* Steganography Online :: [https://stylesuxx.github.io/steganography/](https://stylesuxx.github.io/steganography/)
+* Steganographic Decoder :: [https://futureboy.us/stegano/decinput.html](https://futureboy.us/stegano/decinput.html)
+* Repair Image Online Tool :: [https://online.officerecovery.com/pixrecovery/](https://online.officerecovery.com/pixrecovery/)
 
-# Header 1
-## Header 2
-### Header 3
+### Binary Exploitation / Coding
+* Compiler Explorer Online :: [https://godbolt.org/](https://godbolt.org/)
+* Online GDB :: [https://www.onlinegdb.com/](https://www.onlinegdb.com/)
+* Try It Online (TIO) - Online Interpreter :: [https://tio.run/](https://tio.run/)
+* Compile and Execute Assembly Online :: [https://www.tutorialspoint.com/compile_assembly_online.php](https://www.tutorialspoint.com/compile_assembly_online.php)
+* Online Terminals, Compilers & Interpreters :: [http://www.tutorialspoint.com/codingground.htm](http://www.tutorialspoint.com/codingground.htm)
+* Execute Python Online (Python v2.7.13) :: [https://www.tutorialspoint.com/execute_python_online.php](https://www.tutorialspoint.com/execute_python_online.php)
+* Python 3 Terminal Online :: [https://www.tutorialspoint.com/python3_terminal_online.php](https://www.tutorialspoint.com/python3_terminal_online.php)
+* Execute Ruby Online (Ruby v2.4.1) :: [https://www.tutorialspoint.com/execute_ruby_online.php](https://www.tutorialspoint.com/execute_ruby_online.php)
+* PowerShell Terminal Online :: [https://www.tutorialspoint.com/powershell_terminal_online.php](https://www.tutorialspoint.com/powershell_terminal_online.php)
+* Python Decompiler :: [https://python-decompiler.com/](https://python-decompiler.com/)
+* Esoteric Languages (ESO Lang) Wiki :: [https://esolangs.org/wiki/language_list](https://esolangs.org/wiki/language_list)
+* Hello world! :: [https://esolangs.org/wiki/Hello_world](https://esolangs.org/wiki/Hello_world)
+* Hello world in Esoteric languages :: [https://esolangs.org/wiki/Hello_world_program_in_esoteric_languages](https://esolangs.org/wiki/Hello_world_program_in_esoteric_languages)
+* The Hello World Collection :: [http://helloworldcollection.de/](http://helloworldcollection.de/)
 
-- Bulleted
-- List
+### Reversing
+* 32-bit Opcode Reference :: [http://ref.x86asm.net/coder32.html](http://ref.x86asm.net/coder32.html)
+* 64-bit Opcode Reference :: [http://ref.x86asm.net/coder64.html](http://ref.x86asm.net/coder64.html)
+* Intel x86 Assembler Instruction Set Opcode Table :: [http://sparksandflames.com/files/x86InstructionChart.html](http://sparksandflames.com/files/x86InstructionChart.html)
+* ODA - The Online Disassembler :: [https://www.onlinedisassembler.com/odaweb/](https://www.onlinedisassembler.com/odaweb/)
+* Online TrID :: [http://mark0.net/onlinetrid.aspx](http://mark0.net/onlinetrid.aspx)
+* Executable Online Viewer :: [https://exe.urih.com/](https://exe.urih.com/)
+* Visual Analysis of Binary Files :: [https://binvis.io/#/](https://binvis.io/#/)
+* Online Strings Utility :: [https://www.fileformat.info/tool/strings.htm](https://www.fileformat.info/tool/strings.htm)
+* File Signatures :: [http://www.garykessler.net/library/file_sigs.html](http://www.garykessler.net/library/file_sigs.html)
+* Wotsit.org - The Programmer's File & Data Resource :: [http://devel.archefire.org/mirrors/www.wotsit.org/](http://devel.archefire.org/mirrors/www.wotsit.org/)
+* FileFormat.Info - The Digital Rosetta Stone :: [http://www.fileformat.info/](http://www.fileformat.info/)
+* Zamzar - File formats descriptions and meanings :: [http://www.zamzar.com/fileformats/](http://www.zamzar.com/fileformats/)
+* File Magic Numbers :: [https://gist.github.com/leommoore/f9e57ba2aa4bf197ebc5](https://gist.github.com/leommoore/f9e57ba2aa4bf197ebc5)
+* Magic Bytes - JavaScript Library :: [https://github.com/LarsKoelpin/magic-bytes](https://github.com/LarsKoelpin/magic-bytes)
+* HexEd.it - Browser based hex editor :: [https://hexed.it/](https://hexed.it/)
 
-1. Numbered
-2. List
+### Malware Analysis
+* VirusTotal - Virus, Malware and URL Scanner :: [http://www.virustotal.com](http://www.virustotal.com)
+* VirSCAN.org :: [http://virscan.org/](http://virscan.org/)
+* Jotti's Malware Scan :: [https://virusscan.jotti.org/en](https://virusscan.jotti.org/en)
+* Deepviz Malware Analyzer :: [https://sandbox.deepviz.com/](https://sandbox.deepviz.com/)
+* Malware Analysis by Malwr.com :: [https://malwr.com/](https://malwr.com/)
+* NoDistribute - Online Virus Scanner w/o Distribution :: [http://nodistribute.com/](http://nodistribute.com/)
+* CyberTracker - MalwareHunterTeam :: [http://cybertracker.malwarehunterteam.com/](http://cybertracker.malwarehunterteam.com/)
+* Advanced File Analysis :: [https://valkyrie.comodo.com/](https://valkyrie.comodo.com/)
+* Static Analysis Framework :: [https://mastiff-online.korelogic.com/](https://mastiff-online.korelogic.com/)
+* ThreatExpert File Analysis :: [http://www.threatexpert.com/submit.aspx](http://www.threatexpert.com/submit.aspx)
+* Microsoft Malware Protection Center :: [https://www.microsoft.com/en-us/security/portal/submission/submit.aspx](https://www.microsoft.com/en-us/security/portal/submission/submit.aspx)
+* Hybrid-Analysis - Malware/File Analysis :: [https://www.hybrid-analysis.com/](https://www.hybrid-analysis.com/)
+* Reverse.IT - Malware/File Analysis :: [https://www.reverse.it](https://www.reverse.it)
+* File Analyzer :: [https://www.file-analyzer.net/](https://www.file-analyzer.net/)
+* Document Analyzer :: [http://www.document-analyzer.net/](http://www.document-analyzer.net/)
+* Office Document Malware Analysis :: [https://www.quicksand.io/](https://www.quicksand.io/)
+* Scan Documents for Embedded Executables/Payloads :: [https://www.cryptam.com/](https://www.cryptam.com/)
+* Malware Tracker aka PDF-Examiner :: [https://www.malwaretracker.com/pdf.php](https://www.malwaretracker.com/pdf.php)
+* APK Analyzer :: [https://www.apk-analyzer.net/](https://www.apk-analyzer.net/)
+* Linux Sandbox :: [https://detux.org/](https://detux.org/)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/krakenov/krakenov.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Converters
+* BIN, HEX, DEC, BASE64 Translator :: [https://paulschou.com/tools/xlate/](https://paulschou.com/tools/xlate/)
+* CyberChef - The Cyber Swiss Army Knife :: [https://gchq.github.io/CyberChef/](https://gchq.github.io/CyberChef/)
+* Base64 Encode :: [https://www.base64encode.org/](https://www.base64encode.org/)
+* Base64 Decode :: [https://www.base64decode.org/](https://www.base64decode.org/)
+* Cryptii - Converter between multiple format systems :: [https://cryptii.com/text/select](https://cryptii.com/text/select)
+* dCode - The Ultimate Toolkit to Solve Games & Riddles :: [https://www.dcode.fr/tools-list](https://www.dcode.fr/tools-list)
+* AES – Symmetric Ciphers Online :: [http://aes.online-domain-tools.com/](http://aes.online-domain-tools.com/)
+* ASCII Converter (Hex/Dec/Bin/Base64/ASCII) :: [https://www.branah.com/ascii-converter](https://www.branah.com/ascii-converter)
+* Hex Dec Bin Oct converter for programmers :: [http://calc.50x.eu/](http://calc.50x.eu/)
+* Rot13 Converter :: [http://www.rot13.com/](http://www.rot13.com/)
+* Hex to ASCII Text Converter :: [https://www.rapidtables.com/convert/number/hex-to-ascii.html](https://www.rapidtables.com/convert/number/hex-to-ascii.html)
+* Number Base Converter :: [https://www.rapidtables.com/convert/number/index.html](https://www.rapidtables.com/convert/number/index.html)
+* URL Encoding :: [http://www.blooberry.com/indexdot/html/topics/urlencoding.htm](http://www.blooberry.com/indexdot/html/topics/urlencoding.htm)
+* URL Encode/Decode :: [http://www.url-encode-decode.com/](http://www.url-encode-decode.com/)
+* Online Encrypt Decrypt String :: [https://codebeautify.org/encrypt-decrypt](https://codebeautify.org/encrypt-decrypt)
+* Cipher Tools :: [http://rumkin.com/tools/cipher/](http://rumkin.com/tools/cipher/)
+* Reverse String :: [https://codebeautify.org/reverse-string](https://codebeautify.org/reverse-string)
+* Morse Code Translator :: [https://morsecode.scphillips.com/translator.html](https://morsecode.scphillips.com/translator.html)
+* Morse Code Table Cheat Sheet :: [https://terablitz.com/radio/morse-code-table-cheat-sheet/](https://terablitz.com/radio/morse-code-table-cheat-sheet/)
+* Maritime Signals Code :: [https://www.dcode.fr/maritime-signals-code](https://www.dcode.fr/maritime-signals-code)
